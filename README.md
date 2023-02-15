@@ -1,5 +1,10 @@
 # landing-page
 
+## Working route
+- /                     (Home)
+- /about                (About)
+- /integration          (Integrasi Api)
+
 ## Build Setup
 
 ```bash
