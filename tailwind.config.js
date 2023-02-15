@@ -8,6 +8,9 @@ module.exports = {
     './nuxt.config.{js,ts}'
   ],
   theme: {
+    fontFamily: {
+      sans: ['Inter', 'sans-serif']
+    },
     extend: {
       colors: {
         primary: {
