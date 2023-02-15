@@ -7,13 +7,11 @@
           <BaseSection>
             <div class="col-span-12 lg:col-span-8 mt-12 xl:mt-10 space-y-4 sm:space-y-6 px-6 text-center sm:text-left">
               <h1
-                data-aos="fade-right"
-                data-aos-once="true"
                 class="text-[2.5rem] sm:text-4xl xl:text-5xl font-bold leading-tight capitalize sm:pr-8 xl:pr-10"
               >
                 {{ 'Partner Ecosystem & Integrations' }}
               </h1>
-              <p data-aos="fade-down" data-aos-once="true" data-aos-delay="300" class="paragraph hidden sm:block">
+              <p class="paragraph hidden sm:block">
                 {{ 'Kami bermitra dengan banyak ekspedisi terkemuka untuk membantu mengembangkan bisnis Anda lebih cepat, dan lebih kuat dari sebelumnya.' }}
               </p>
               <ul class="grid gap-y-5 mb-10 text-sm xl:w-7/12 text-neutral-600">
@@ -85,9 +83,6 @@
                 </li>
               </ul>
               <div
-                data-aos="fade-up"
-                data-aos-once="true"
-                data-aos-delay="700"
                 class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 mt-2 pb-2"
               >
                 <BaseButton
@@ -106,8 +101,6 @@
             <div class="hidden sm:block col-span-12 lg:col-span-4">
               <div class="w-full">
                 <img
-                  data-aos="fade-up"
-                  data-aos-once="true"
                   src="https://kiriminaja.com/assets/home-v3/integration-image.svg"
                   class="-mt-4"
                   alt=""
@@ -122,10 +115,10 @@
     <section class="bg-neutral-50 relative max-w-full sm:mx-6 my-10 shadow sm:rounded-2xl">
       <div class="w-full sm:px-0 py-16 items-center justify-center space-y-4 text-center container xl:w-10/12 2xl:w-9/12 mx-auto px-3 relative">
         <div class="xl:text-center mb-5">
-          <h3 data-aos="flip-down" class="font-display text-2xl xl:text-4xl font-bold mb-3">
+          <h3 class="font-display text-2xl xl:text-4xl font-bold mb-3">
             <span>Modern Rest API's, Simply Delivered</span>
           </h3>
-          <p data-aos="flip-down" class="mb-5 xl:mb-7 text-neutral-700 xl:w-7/12 xl:mx-auto">
+          <p class="mb-5 xl:mb-7 text-neutral-700 xl:w-7/12 xl:mx-auto">
             Kami menggunakan teknologi REST API terbaru yang lebih mudah dimengerti oleh developer ber skala kecil
           </p>
         </div>
